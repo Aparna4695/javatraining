@@ -7,3 +7,6 @@ private/
 *.class 
 .metadata/ 
 .recommenders/
+private/ 
+private/ 
+*.tmp 
