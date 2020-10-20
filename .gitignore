@@ -1,3 +1,9 @@
 *.class 
 .metadata/ 
 .recommenders/
+private/ 
+private/ 
+*.tmp 
+*.class 
+.metadata/ 
+.recommenders/
