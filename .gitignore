@@ -10,3 +10,6 @@ private/
 private/ 
 private/ 
 *.tmp 
+private/ 
+private/ 
+*.tmp 
